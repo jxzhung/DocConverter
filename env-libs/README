@@ -1,0 +1,5 @@
+This project only works on Windows 32 and 64 platform, you shoud config jacob first.
+1. put jacob-*-x*.dll into your system path like /windows/system/
+2. use jacob.jar as a normal java library.
+
+by jzhung.com

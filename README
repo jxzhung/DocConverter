@@ -1,0 +1,2 @@
+调用微软OFFICE COM组件实现文档格式转换 <br />
+支持转换到27中文档格式，文档类型参照 https://msdn.microsoft.com/zh-cn/VBA/Word-VBA/articles/wdsaveformat-enumeration-word <br />
